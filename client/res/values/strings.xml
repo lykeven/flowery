@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">花卉识别</string>
+      <string name="app_show">展示</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="selectFrom">从相册中选择</string>
+    <string name="take">拍照</string>
+    <string name="tab_home">"首页"</string>
+   
+    <string name="tab_take">"拍照"</string>
+
+    
+    <string name="back">"返回"</string>
+    <string name="help">"帮助"</string>
+    <string name="exit">"退出"</string>
+	<string name="display">"展览"</string>
+	<string name="app_show2">具体信息</string>
+
+</resources>
